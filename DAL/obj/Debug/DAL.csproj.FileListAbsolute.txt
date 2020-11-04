@@ -1,0 +1,20 @@
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\bin\Debug\DAL.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\bin\Debug\DAL.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\bin\Debug\DTO.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\bin\Debug\DTO.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\obj\Debug\DAL.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\DAL\obj\Debug\DAL.pdb
+D:\C# Project Class\BTL - Author TTL\DAL\bin\Debug\DAL.dll
+D:\C# Project Class\BTL - Author TTL\DAL\bin\Debug\DAL.pdb
+D:\C# Project Class\BTL - Author TTL\DAL\bin\Debug\DTO.dll
+D:\C# Project Class\BTL - Author TTL\DAL\bin\Debug\FontAwesome.Sharp.dll
+D:\C# Project Class\BTL - Author TTL\DAL\bin\Debug\DTO.pdb
+D:\C# Project Class\BTL - Author TTL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\C# Project Class\BTL - Author TTL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\C# Project Class\BTL - Author TTL\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\C# Project Class\BTL - Author TTL\DAL\obj\Debug\DAL.dll
+D:\C# Project Class\BTL - Author TTL\DAL\obj\Debug\DAL.pdb

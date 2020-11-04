@@ -1,0 +1,22 @@
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\BUS.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\BUS.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\DAL.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\DTO.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\DAL.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\bin\Debug\DTO.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\obj\Debug\BUS.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\BUS\obj\Debug\BUS.pdb
+D:\C# Project Class\BTL - Author TTL\BUS\bin\Debug\BUS.dll
+D:\C# Project Class\BTL - Author TTL\BUS\bin\Debug\BUS.pdb
+D:\C# Project Class\BTL - Author TTL\BUS\bin\Debug\DAL.dll
+D:\C# Project Class\BTL - Author TTL\BUS\bin\Debug\DTO.dll
+D:\C# Project Class\BTL - Author TTL\BUS\bin\Debug\DAL.pdb
+D:\C# Project Class\BTL - Author TTL\BUS\bin\Debug\DTO.pdb
+D:\C# Project Class\BTL - Author TTL\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\C# Project Class\BTL - Author TTL\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\C# Project Class\BTL - Author TTL\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\C# Project Class\BTL - Author TTL\BUS\obj\Debug\BUS.dll
+D:\C# Project Class\BTL - Author TTL\BUS\obj\Debug\BUS.pdb

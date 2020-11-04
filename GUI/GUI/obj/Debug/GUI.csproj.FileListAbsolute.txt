@@ -1,0 +1,222 @@
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\BUS.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\DTO.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\DAL.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\EnvDTE.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\stdole.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\BUS.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\DTO.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\DAL.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BC.FormBC1.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BC.FormBC2.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BC.FormBC3.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BC.FormBC4.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormCaLam.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormKhoiLuongcs.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormLoaiGa.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormMau.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormNuocSX.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BG.FormChiTiet.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BG.FormSP.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BG.FormTK1.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BG.FormTKBG.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_HD.FormHDB.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_HD.FormHDN.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_HD.FormHDTK.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_HD.FormTKHD.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_MENU.FormQLTK.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FormBC.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FormBG.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FormHD.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FormLogin.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FormKH.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FormNV.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormCongViec.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FormNCC.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\FORMS\FORM IN Báo cáo\Report1.rdlc
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\RdlCompile.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\FORMS\FORM IN Báo cáo\Report2.rdlc
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Handling.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\Handling.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FormChangePass.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_Màn_hình_chính.FormQuenMK.resources
+C:\Users\trant\OneDrive\Máy tính\BTL\GUI\GUI\bin\Debug\FORMS\FORM IN Báo cáo\Report3.rdlc
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\FORMS\FORM IN Báo cáo\Report1.rdlc
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\FORMS\FORM IN Báo cáo\Report2.rdlc
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\FORMS\FORM IN Báo cáo\Report3.rdlc
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\GUI.exe.config
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\GUI.exe
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\GUI.pdb
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\BUS.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\DAL.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\DTO.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Handling.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\EnvDTE.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\stdole.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\BUS.pdb
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\DAL.pdb
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\DTO.pdb
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\Handling.pdb
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BC.FormBC1.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BC.FormBC2.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BC.FormBC3.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BC.FormBC4.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormCaLam.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormCongViec.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormKhoiLuongcs.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormLoaiGa.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormMau.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_Sản_phẩm.FORM_IN_Chi_tiết.FormNuocSX.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BG.FormChiTiet.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BG.FormSP.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BG.FormTK1.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_BG.FormTKBG.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_HD.FormHDB.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_HD.FormHDN.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_HD.FormHDTK.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_IN_HD.FormTKHD.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.Form1.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_MENU.FormQLTK.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FormBC.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FormBG.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FormChangePass.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FormHD.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FormLogin.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FORM_Màn_hình_chính.FormQuenMK.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FormKH.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FORMS.FormNCC.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.FormNV.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\RdlCompile.cache
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\RdlCompile.compiled
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.exe
+D:\C# Project Class\BTL - Author TTL\GUI\GUI\obj\Debug\GUI.pdb

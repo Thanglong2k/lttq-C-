@@ -1,0 +1,6 @@
+C:\Users\trant\OneDrive\Máy tính\BTL\Handling\bin\Debug\Handling.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\Handling\bin\Debug\Handling.pdb
+C:\Users\trant\OneDrive\Máy tính\BTL\Handling\obj\Debug\Handling.csprojAssemblyReference.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\Handling\obj\Debug\Handling.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Máy tính\BTL\Handling\obj\Debug\Handling.dll
+C:\Users\trant\OneDrive\Máy tính\BTL\Handling\obj\Debug\Handling.pdb
